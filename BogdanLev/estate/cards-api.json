@@ -1,0 +1,161 @@
+{
+  "baseUrl": "http://localhost:8080",
+  "endpoints": [
+    {
+      "path": "/property-object-card",
+      "method": "GET",
+      "description": "Fetches a paginated list of property objects.",
+      "parameters": {
+        "pageNumber": {
+          "description": "The page number to fetch.",
+          "default": 0,
+          "type": "integer",
+          "optional": true
+        },
+        "pageSize": {
+          "description": "The number of items per page.",
+          "default": 30,
+          "type": "integer",
+          "optional": true
+        }
+      },
+      "exampleRequest": "GET http://localhost:8080/property-object-card?pageNumber=0&pageSize=30",
+      "response": "JSON array of PropertyObjectCardDTO"
+    },
+    {
+      "path": "/property-object-card/similar",
+      "method": "GET",
+      "description": "Fetches a paginated list of property objects similar in price to the specified property.",
+      "parameters": {
+        "id": {
+          "description": "The ID of the property to compare.",
+          "type": "string",
+          "optional": false
+        },
+        "pageNumber": {
+          "description": "The page number to fetch.",
+          "default": 0,
+          "type": "integer",
+          "optional": true
+        },
+        "pageSize": {
+          "description": "The number of items per page.",
+          "default": 30,
+          "type": "integer",
+          "optional": true
+        }
+      },
+      "exampleRequest": "GET http://localhost:8080/property-object-card/similar?id=12345&pageNumber=0&pageSize=30",
+      "response": "JSON array of PropertyObjectCardDTO"
+    },
+    {
+      "path": "/property-object-card/search",
+      "method": "GET",
+      "description": "Searches for properties matching the given query.",
+      "parameters": {
+        "query": {
+          "description": "The search text query to filter properties by.",
+          "type": "string",
+          "optional": false
+        },
+        "pageNumber": {
+          "description": "The page number to fetch.",
+          "default": 0,
+          "type": "integer",
+          "optional": true
+        },
+        "pageSize": {
+          "description": "The number of items per page.",
+          "default": 20,
+          "type": "integer",
+          "optional": true
+        }
+      },
+      "exampleRequest": "GET http://localhost:8080/property-object-card/search?query=Beautiful+Apartment&pageNumber=0&pageSize=20",
+      "response": "JSON array of PropertyObjectCardDTO"
+    },
+    {
+      "path": "/property-object-card/filter",
+      "method": "GET",
+      "description": "Filters properties based on various optional criteria.",
+      "parameters": {
+        "searchText": {
+          "description": "Text to search for in property details.",
+          "type": "string",
+          "optional": true
+        },
+        "city": {
+          "description": "Filter properties by city.",
+          "type": "string",
+          "optional": true
+        },
+        "operationType": {
+          "description": "Filter by operation type (e.g., 'RENT', 'SALE').",
+          "type": "string",
+          "optional": true
+        },
+        "propertyType": {
+          "description": "Filter by property type (e.g., 'APARTMENT').",
+          "type": "string",
+          "optional": true
+        },
+        "minPrice": {
+          "description": "Minimum price to filter properties by.",
+          "default": 0,
+          "type": "integer",
+          "optional": true
+        },
+        "maxPrice": {
+          "description": "Maximum price to filter properties by.",
+          "type": "integer",
+          "optional": true
+        },
+        "pageNumber": {
+          "description": "The page number to fetch.",
+          "default": 0,
+          "type": "integer",
+          "optional": true
+        },
+        "pageSize": {
+          "description": "The number of items per page.",
+          "default": 20,
+          "type": "integer",
+          "optional": true
+        }
+      },
+      "exampleRequest": "GET http://localhost:8080/property-object-card/filter?city=New+York&operationType=SALE&minPrice=50000&maxPrice=200000&pageNumber=0&pageSize=20",
+      "response": "JSON array of PropertyObjectCardDTO"
+    }
+  ],
+  "notes": [
+    "Ensure correct handling of pagination with the pageNumber and pageSize parameters.",
+    "Implement robust error handling for cases such as missing parameters or server errors.",
+    "If the API requires authentication, manage tokens efficiently."
+  ],
+  "sampleResponseStructure": {
+    "id": "12345",
+    "platformId": "54321",
+    "picture": "https://example.com/image.jpg",
+    "status": "Available",
+    "title": "Beautiful Apartment in City Center",
+    "operationType": "SALE",
+    "description": "A great property located in the heart of the city.",
+    "price": {
+      "amount": 150000,
+      "currency": "USD"
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 85.0,
+    "location": {
+      "city": "New York",
+      "district": "Manhattan",
+      "address": "123 Main St",
+      "fullAddress": "123 Main St, Manhattan, New York, NY",
+      "coordinates": {
+        "lat": 40.7128,
+        "lng": -74.0060
+      }
+    },
+    "dateCreated": "2023-01-01T12:00:00"
+  }
+}

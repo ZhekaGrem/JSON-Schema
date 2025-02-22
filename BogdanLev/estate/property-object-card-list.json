@@ -1,0 +1,542 @@
+[
+  {
+    "id": "67b77f5fe0d5e665b182c9c4",
+    "platformId": "877932438",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/618dzq2w3tsl-UA/image",
+    "status": "A",
+    "title": "Оренда 1-кім. квартири. вул. Ч. Калини-Ромашкова-Новобудова-Сихів",
+    "operationType": "RENT",
+    "description": "Оренда 1-кімнатної квартири з євроремонтом у Львові на Сихові.",
+    "price": {
+      "amount": 12800,
+      "currency": "UAH",
+      "approxUahPrice": 12800
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 47.0,
+    "location": {
+      "city": "Львів",
+      "district": "Сихівський",
+      "address": "вул. Ч. Калини-Ромашкова",
+      "fullAddress": "вул. Ч. Калини-Ромашкова, Львів, Сихівський",
+      "coordinates": {
+        "lat": 49.8419,
+        "lng": 24.0298
+      }
+    },
+    "dateCreated": "2025-02-20T21:15:25.122"
+  },
+  {
+    "id": "67b77f37e0d5e665b182c9c3",
+    "platformId": "874549170",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/vy735ckyomxu3-UA/image",
+    "status": "A",
+    "title": "Оренда 2-кімнатної VIP квартири",
+    "operationType": "RENT",
+    "description": "Оренда 2-кімнатної VIP квартири в центрі Львова, зі зручним плануванням та сучасними меблями.",
+    "price": {
+      "amount": 1200,
+      "currency": "USD",
+      "approxUahPrice": 50400
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 80.0,
+    "location": {
+      "city": "Львів",
+      "district": "Галицький",
+      "address": "вул. Кубанська 8",
+      "fullAddress": "вул. Кубанська 8, Львів, Галицький",
+      "coordinates": {
+        "lat": 49.8419,
+        "lng": 24.0294
+      }
+    },
+    "dateCreated": "2025-02-20T21:14:23.794"
+  },
+  {
+    "id": "67b77f09e0d5e665b182c9c2",
+    "platformId": "878146594",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/n5gbi11oh9wd2-UA/image",
+    "status": "A",
+    "title": "Оренда 1-кімнатної квартири по вул. Стрийська",
+    "operationType": "RENT",
+    "description": "Довготривала оренда 1-кімнатної квартири по вул. Стрийська. Перша здача, якісна техніка, меблі. Будинок повністю заселений.",
+    "price": {
+      "amount": 19000,
+      "currency": "UAH",
+      "approxUahPrice": 19000
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 47.0,
+    "location": {
+      "city": "Львів",
+      "district": "Сихівський",
+      "address": "вул. Стрийська",
+      "fullAddress": "вул. Стрийська, Львів, Сихівський",
+      "coordinates": {
+        "lat": 49.8371,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T21:13:58.782"
+  },
+  {
+    "id": "67b77b69e0d5e665b182c9c1",
+    "platformId": "872819329",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/rdyrny8g1xd11-UA/image",
+    "status": "A",
+    "title": "Оренда 5-кімнатної дворівневої квартири по вул.Глибокій польський люкс",
+    "operationType": "RENT",
+    "description": "Пропонується в оренду простора дворівнева квартира на вул. Глибокій, Львів. Квартира з 5 ізольованими кімнатами, просторою кухнею-вітальнею та 3 санвузлами. Всі зручності, сучасний ремонт.",
+    "price": {
+      "amount": 790,
+      "currency": "USD",
+      "approxUahPrice": 33180
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 180.0,
+    "location": {
+      "city": "Львів",
+      "district": "Франківський",
+      "address": "вул. Глибока",
+      "fullAddress": "вул. Глибока, Львів, Франківський",
+      "coordinates": {
+        "lat": 49.8397,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:58:31.517"
+  },
+  {
+    "id": "67b77b4ee0d5e665b182c9c0",
+    "platformId": "876589391",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/6i82d21ixmx4-UA/image",
+    "status": "A",
+    "title": "Оренда 2 кім квартири Аурум",
+    "operationType": "RENT",
+    "description": "Здається чудова 2-кімнатна квартира у новобудові на вул. Січинського, Львів.",
+    "price": {
+      "amount": 550,
+      "currency": "USD",
+      "approxUahPrice": 23100
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 70.0,
+    "location": {
+      "city": "Львів",
+      "district": "Сихівський",
+      "address": "вул. Січинського",
+      "fullAddress": "вул. Січинського, Львів, Сихівський",
+      "coordinates": {
+        "lat": 49.8397,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:58:02.493"
+  },
+  {
+    "id": "67b77b30e0d5e665b182c9bf",
+    "platformId": "876365861",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/u6mj1sxsnjtp3-UA/image",
+    "status": "A",
+    "title": "Тривала Оренда 2к Квартири у Львові",
+    "operationType": "RENT",
+    "description": "Тривала оренда 2к квартири у Львові в новобудові по вул. У.Кравченко. Вільна вже!",
+    "price": {
+      "amount": 500,
+      "currency": "USD",
+      "approxUahPrice": 21000
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 66.0,
+    "location": {
+      "city": "Львів",
+      "district": "Залізничний",
+      "address": "вул. У.Кравченко",
+      "fullAddress": "вул. У.Кравченко, Львів, Залізничний",
+      "coordinates": {
+        "lat": 49.8397,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:57:34.52"
+  },
+  {
+    "id": "67b77b0de0d5e665b182c9be",
+    "platformId": "877772902",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/u5fk2b30l8i52-UA/image",
+    "status": "A",
+    "title": "Оренда 1 кім квартири вул. Зерова",
+    "operationType": "RENT",
+    "description": "Оренда 1 кім квартири з євроремонтом у Львові.",
+    "price": {
+      "amount": 17000,
+      "currency": "UAH",
+      "approxUahPrice": 17000
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 45.0,
+    "location": {
+      "city": "Львів",
+      "district": "Франківський",
+      "address": "вул. Зерова",
+      "fullAddress": "вул. Зерова, Львів, Франківський",
+      "coordinates": {
+        "lat": 49.8397,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:56:54.961"
+  },
+  {
+    "id": "67b77adee0d5e665b182c9bd",
+    "platformId": "876344215",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/xei0hoaz4ic62-UA/image",
+    "status": "A",
+    "title": "Красива 1 - кім. кв. у новобуд. Грінвіль парк. Перша здача. Власник",
+    "operationType": "RENT",
+    "description": "Оренда 1 кімнатної квартири в новобудові ЖК «Greenville Park Lviv». Перша здача, квартира вільна, огляди за домовленістю.",
+    "price": {
+      "amount": 600,
+      "currency": "USD",
+      "approxUahPrice": 25200
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 45.0,
+    "location": {
+      "city": "Львів",
+      "district": "Шевченківський",
+      "address": "вул. Замарстинівська 170",
+      "fullAddress": "вул. Замарстинівська 170, Львів, Шевченківський",
+      "coordinates": {
+        "lat": 49.8397,
+        "lng": 24.0316
+      }
+    },
+    "dateCreated": "2025-02-20T20:56:14.906"
+  },
+  {
+    "id": "67b77ac8e0d5e665b182c9bc",
+    "platformId": "877658478",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/cqzyhka1gnrt1-UA/image",
+    "status": "A",
+    "title": "Здається 2-кімн. квартира",
+    "operationType": "RENT",
+    "description": "Здається 2-кімн. квартира на Сихові, район Санта Барбара. Тепло і затишно, з зручною інфраструктурою.",
+    "price": {
+      "amount": 10000,
+      "currency": "UAH",
+      "approxUahPrice": 10000
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 48.0,
+    "location": {
+      "city": "Львів",
+      "district": "Сихівський",
+      "address": "Санта Барбара",
+      "fullAddress": "Санта Барбара, Львів, Сихівський",
+      "coordinates": {
+        "lat": 49.8405,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:55:26.631"
+  },
+  {
+    "id": "67b77a98e0d5e665b182c9bb",
+    "platformId": "877030900",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/cx8gn2z85wur1-UA/image",
+    "status": "A",
+    "title": "Оренда 1-кім. квартири",
+    "operationType": "RENT",
+    "description": "Оренда 1-кімнатної квартири на вул. Бортнянського-Сорохтея. В квартирі є меблі та побутова техніка.",
+    "price": {
+      "amount": 7000,
+      "currency": "UAH",
+      "approxUahPrice": 7000
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 36.0,
+    "location": {
+      "city": "Львів",
+      "district": "Залізничний",
+      "address": "вул. Бортнянського-Сорохтея",
+      "fullAddress": "вул. Бортнянського-Сорохтея, Львів, Залізничний",
+      "coordinates": {
+        "lat": 49.8397,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:54:40.445"
+  },
+  {
+    "id": "67b77a68e0d5e665b182c9ba",
+    "platformId": "875891740",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/l0xgux9dm7523-UA/image",
+    "status": "A",
+    "title": "Оренда 1 кімнатної кв по вул Широка",
+    "operationType": "RENT",
+    "description": "Здається в оренду 1 кімнатна квартира на вул. Широка, Львів.",
+    "price": {
+      "amount": 8500,
+      "currency": "UAH",
+      "approxUahPrice": 8500
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 43.0,
+    "location": {
+      "city": "Львів",
+      "district": "Залізничний",
+      "address": "вул. Широка 66",
+      "fullAddress": "вул. Широка 66, Львів, Залізничний",
+      "coordinates": {
+        "lat": 49.8397,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:54:16.122"
+  },
+  {
+    "id": "67b77a52e0d5e665b182c9b9",
+    "platformId": "877250299",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/d9o1j7a94xv32-UA/image",
+    "status": "A",
+    "title": "Довготривала оренда 2 кімнатної квартири",
+    "operationType": "RENT",
+    "description": "Довготривала оренда 2 кімнатної квартири з євроремонтом та всіма зручностями.",
+    "price": {
+      "amount": 450,
+      "currency": "USD",
+      "approxUahPrice": 18900
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 60.0,
+    "location": {
+      "city": "Львів",
+      "district": "Франківський",
+      "address": "вул. Чупринки",
+      "fullAddress": "вул. Чупринки, Львів, Франківський",
+      "coordinates": {
+        "lat": 49.8397,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:53:47.043"
+  },
+  {
+    "id": "67b77a32e0d5e665b182c9b8",
+    "platformId": "874113657",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/39w9h5veepxp2-UA/image",
+    "status": "A",
+    "title": "Актуальна Оренда 2-кім квартира паркомісце Мельника Чупринки Центр",
+    "operationType": "RENT",
+    "description": "Пропозиція оренди чудової просторої 2-кім квартири в польському люксі всього на 5 квартир із власною територією та паркомісцем.",
+    "price": {
+      "amount": 500,
+      "currency": "USD",
+      "approxUahPrice": 21000
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 70.0,
+    "location": {
+      "city": "Львів",
+      "district": "Франківський",
+      "address": "вул. Квітнева",
+      "fullAddress": "вул. Квітнева, Львів, Франківський",
+      "coordinates": {
+        "lat": 49.8397,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:53:17.693"
+  },
+  {
+    "id": "67b77a16e0d5e665b182c9b7",
+    "platformId": "877431292",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/4wrzjysvwm1f2-UA/image",
+    "status": "A",
+    "title": "Довгострокова оренда 3х кімнатної квартири",
+    "operationType": "RENT",
+    "description": "Оренда 3-кімнатної квартири в Львові, Франківський район, з усіма зручностями.",
+    "price": {
+      "amount": 11000,
+      "currency": "UAH",
+      "approxUahPrice": 11000
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 64.0,
+    "location": {
+      "city": "Львів",
+      "district": "Франківський",
+      "address": "вул. Наукова",
+      "fullAddress": "вул. Наукова, Львів, Франківський",
+      "coordinates": {
+        "lat": 49.8413,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:52:29.477"
+  },
+  {
+    "id": "67b779e0e0d5e665b182c9b6",
+    "platformId": "877571321",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/hot8uplhz27j-UA/image",
+    "status": "A",
+    "title": "Оренда Квартири р-н Скрині",
+    "operationType": "RENT",
+    "description": "Оренда однокімнатної квартири з індивідуальним опаленням у зручному районі Львова.",
+    "price": {
+      "amount": 17000,
+      "currency": "UAH",
+      "approxUahPrice": 17000
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 43.0,
+    "location": {
+      "city": "Львів",
+      "district": "Галицький",
+      "address": "вулиця Смаль-Стоцького",
+      "fullAddress": "вулиця Смаль-Стоцького, Львів, Галицький",
+      "coordinates": {
+        "lat": 49.8383,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:51:37.932"
+  },
+  {
+    "id": "67b779b2e0d5e665b182c9b5",
+    "platformId": "877248368",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/xd3r5smcx34k-UA/image",
+    "status": "A",
+    "title": "1 кім. квартира вул. Личаківська",
+    "operationType": "RENT",
+    "description": "1 кімнатна квартира в Львові на вул. Личаківська, з меблями та побутовою технікою.",
+    "price": {
+      "amount": 7000,
+      "currency": "UAH",
+      "approxUahPrice": 7000
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 30.0,
+    "location": {
+      "city": "Львів",
+      "district": "Личаківський",
+      "address": "вул. Личаківська",
+      "fullAddress": "вул. Личаківська, Львів, Личаківський",
+      "coordinates": {
+        "lat": 49.8397,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:51:19.894"
+  },
+  {
+    "id": "67b7799ee0d5e665b182c9b4",
+    "platformId": "877779310",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/ht7uezyk2pqf3-UA/image",
+    "status": "A",
+    "title": "Довготривала оренда квартири 44м2 у Viking Park",
+    "operationType": "RENT",
+    "description": "Квартира доступна для заселення та перегляду з 1 березня. Пропонуємо довгострокову оренду у новому житловому комплексі з підземним паркінгом та розвинутою інфраструктурою.",
+    "price": {
+      "amount": 24000,
+      "currency": "UAH",
+      "approxUahPrice": 24000
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 44.0,
+    "location": {
+      "city": "Львів",
+      "district": "Сихівський",
+      "address": "вул. Зелена, 151",
+      "fullAddress": "вул. Зелена, 151, Львів, Сихівський",
+      "coordinates": {
+        "lat": 49.8397,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:50:36.604"
+  },
+  {
+    "id": "67b77974e0d5e665b182c9b3",
+    "platformId": "875884200",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/7ofm0oo3vki71-UA/image",
+    "status": "A",
+    "title": "Оренда 1-но кім квартира бл.центр. ЖК FORUM apartments",
+    "operationType": "RENT",
+    "description": "Оренда 1 кім. Смарт квартири ЖК FORUM apartments, біля форуму, ближній центр. Площа 32 м², 3/6 поверх, з євроремонтом та меблями.",
+    "price": {
+      "amount": 450,
+      "currency": "USD",
+      "approxUahPrice": 18900
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 32.0,
+    "location": {
+      "city": "Львів",
+      "district": "Шевченківський",
+      "address": "вулиця Форум",
+      "fullAddress": "вулиця Форум, Львів, Шевченківський",
+      "coordinates": {
+        "lat": 49.8397,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:50:12.11"
+  },
+  {
+    "id": "67b7795ce0d5e665b182c9b2",
+    "platformId": "876882530",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/3gvae7mzqgmz1-UA/image",
+    "status": "A",
+    "title": "Оренда. 1-кімн. Вул.Зелена Ближній Центр Личаківський район",
+    "operationType": "RENT",
+    "description": "Здається в оренду 1-кімнатна квартира з косметичним ремонтом. Поруч зупинка транспорту та супермаркет.",
+    "price": {
+      "amount": 7500,
+      "currency": "UAH",
+      "approxUahPrice": 7500
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 40.0,
+    "location": {
+      "city": "Львів",
+      "district": "Личаківський",
+      "address": "Вул. Зелена",
+      "fullAddress": "Вул. Зелена, Львів, Личаківський район",
+      "coordinates": {
+        "lat": 49.8397,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:49:44.217"
+  },
+  {
+    "id": "67b7793de0d5e665b182c9b1",
+    "platformId": "875895738",
+    "picture": "https://ireland.apollo.olxcdn.com:443/v1/files/ees8ixz2jyfc2-UA/image",
+    "status": "A",
+    "title": "1кімната в 3-кімнатній квартирі на вул. Наукова",
+    "operationType": "RENT",
+    "description": "Оренда кімнати в 3-кімнатній квартирі на вул. Наукова, поруч з ТРЦ Вікторія Гарденс.",
+    "price": {
+      "amount": 5500,
+      "currency": "UAH",
+      "approxUahPrice": 5500
+    },
+    "propertyType": "APARTMENT",
+    "totalArea": 63.0,
+    "location": {
+      "city": "Львів",
+      "district": "Франківський",
+      "address": "вул. Наукова",
+      "fullAddress": "вул. Наукова, Львів, Франківський",
+      "coordinates": {
+        "lat": 49.8397,
+        "lng": 24.0297
+      }
+    },
+    "dateCreated": "2025-02-20T20:49:16.977"
+  }
+]

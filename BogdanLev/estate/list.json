@@ -1,0 +1,1708 @@
+[
+  {
+    "id": "67b64ae41436562c36a62b12",
+    "platformId": "871027404",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/8c2crz1qk4ai3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/c8bbsyiqe6j92-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/wgof36awrr7o3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/1hz3lazk6t7v3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/y6ejvh09kivu-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ijwz2soiwah83-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/prne8lgmdro72-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/b4umci5xrrmg-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/qgpxeotzxbft1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ntuct0p3cwk41-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/fzevwa0idj2r-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/rkqaphagduet2-UA/image"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/zhk-the-lakes-stantsya-metro-demvska-IDVVK16.html?reason=ip%7Ccool_rec_platform",
+    "status": "A",
+    "propertyListing": {
+      "id": "871027404",
+      "operationType": "RENT",
+      "title": "Довгострокова оренда квартири у ЖК The Lakes",
+      "slug": "dovhystrokova-orenda-kvartyry-u-jk-the-lakes",
+      "location": {
+        "city": "Київ",
+        "district": "Голосіївський",
+        "address": "проспект Лобановського",
+        "fullAddress": "проспект Лобановського, Київ, Голосіївський",
+        "coordinates": {
+          "lat": 50.4001,
+          "lng": 30.5253
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 13000,
+        "currency": "UAH",
+        "approxUahPrice": 13000
+      },
+      "description": {
+        "brief": "Довгострокова оренда квартири у ЖК The Lakes, з меблями та сучасним ремонтом.",
+        "full": "Пропонується квартира-студія з двома кімнатами, загальною площею 45 м². В квартирі поєднаний санвузол, окрема спальня та кухня з виходом на засклену лоджію з видом на проспект Лобановського. Для комфортного проживання є всі необхідні меблі та техніка: пральна машина, холодильник, телевізор, Wi-Fi, мікрохвильова піч, індукційна плита, двоспальний диван, шафи-купе. Вся інфраструктура в пішій доступності: дитячий садок, школа, зупинка транспорту, метро, супермаркет та багато іншого. Ідеально підходить для сім'ї з 3 осіб."
+      },
+      "specifications": {
+        "buildingType": "Новобудова",
+        "floor": 13,
+        "totalFloors": 25,
+        "totalArea": 45.0,
+        "kitchenArea": 9.0,
+        "livingArea": 0.0,
+        "rooms": 2,
+        "wallType": "Блок",
+        "heating": "Комбіноване",
+        "renovation": "Євроремонт",
+        "furnished": true,
+        "balcony": true,
+        "appliances": [
+          "Пральна машина",
+          "Холодильник",
+          "Телевізор",
+          "Wi-Fi",
+          "Мікрохвильова піч",
+          "Індукційна плита"
+        ],
+        "other": [
+          "Лоджія",
+          "Лічильники на все"
+        ]
+      },
+      "amenities": {
+        "nearby": [
+          "Дитячий садок",
+          "Школа",
+          "Зупинка транспорту",
+          "Метро",
+          "Магазин",
+          "Кіоск",
+          "Супермаркет",
+          "ТРЦ",
+          "Аптека",
+          "Лікарня",
+          "Поліклініка",
+          "Ресторан",
+          "Кафе",
+          "Кінотеатр",
+          "Театр",
+          "Відділення пошти",
+          "Відділення банку",
+          "Банкомат"
+        ],
+        "other": [
+          "Наявність меблів",
+          "Сучасна техніка"
+        ]
+      },
+      "rules": {
+        "petsAllowed": false,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "Віка",
+        "phone": "xxx xxx xxx"
+      },
+      "metadata": {
+        "seoTitle": "Довгострокова оренда квартири у ЖК The Lakes",
+        "seoDescription": "Оренда квартири у Києві, Голосіївський район. Комфортне проживання для сім'ї з усіма зручностями.",
+        "keywords": [
+          "оренда",
+          "квартира",
+          "Київ",
+          "Голосіївський",
+          "довгострокова"
+        ]
+      }
+    },
+    "phones": [],
+    "dateCreated": "2025-02-19T23:19:26.865"
+  },
+  {
+    "id": "67b64ad71436562c36a62b11",
+    "platformId": "870596979",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ibowdbj18d6u3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/skydn8nm12v52-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/afuq9a73lm7u2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/up8jyu6gc8sa3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/nlw9im8tll923-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/mfvzq147h6ve3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/7ze4e75p78hc2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/rb3d3t9hw58h-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/pvgkkt1sxv3k1-UA/image"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/orenda-v-golosvskomu-rayon-1-km-kvartiri-vul-malokitavska-IDVUV2L.html?reason=ip%7Ccool_rec_platform",
+    "status": "A",
+    "propertyListing": {
+      "id": "870596979",
+      "operationType": "RENT",
+      "title": "Оренда в Голосіївському районі 1 кім. квартири (вул. Малокитаївська)",
+      "slug": "orenda-1-kim-kvartiri-holosiyivskyi-raion",
+      "location": {
+        "city": "Київ",
+        "district": "Голосіївський",
+        "address": "вул. Малокитаївська",
+        "fullAddress": "вул. Малокитаївська, Київ, Голосіївський",
+        "coordinates": {
+          "lat": 50.4025,
+          "lng": 30.5167
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 11000,
+        "currency": "UAH",
+        "approxUahPrice": 11000
+      },
+      "description": {
+        "brief": "1 кімнатна квартира в Голосіївському районі з меблями та побутовою технікою.",
+        "full": "Пропонується в оренду 1 кімнатна квартира на початку проспекту Науки. Квартира повністю мебльована та обладнана побутовою технікою, включаючи кондиціонер, пральну машину, бойлер, холодильник та мікрохвильову піч. Розташована в зручному місці: одна зупинка до метро Деміївська або Либідська. Поруч магазини Фора, АТБ, Велмарт, Екомаркет, а також Спорткомплекс і Нова пошта."
+      },
+      "specifications": {
+        "buildingType": "Цегляний",
+        "floor": 6,
+        "totalFloors": 9,
+        "totalArea": 56.0,
+        "kitchenArea": 9.0,
+        "livingArea": 0.0,
+        "rooms": 1,
+        "wallType": "Цегляні",
+        "heating": "Централізоване",
+        "renovation": "Косметичний ремонт",
+        "furnished": true,
+        "balcony": false,
+        "appliances": [
+          "Кондиціонер",
+          "Пральна машина",
+          "Бойлер",
+          "Холодильник",
+          "Мікрохвильова піч",
+          "Варильна поверхня"
+        ],
+        "other": [
+          "Суміжний санвузол",
+          "Роздільна планування"
+        ]
+      },
+      "amenities": {
+        "nearby": [
+          "Метро Деміївська",
+          "Метро Либідська",
+          "Магазини",
+          "Спорткомплекс",
+          "Нова пошта"
+        ],
+        "other": []
+      },
+      "rules": {
+        "petsAllowed": false,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "Дмитро",
+        "phone": "xxx xxx xxx"
+      },
+      "metadata": {
+        "seoTitle": "Оренда 1 кімнатної квартири в Голосіївському районі",
+        "seoDescription": "Здається в оренду 1 кімнатна квартира в Голосіївському районі Києва, з усіма зручностями.",
+        "keywords": [
+          "Оренда",
+          "Квартира",
+          "Голосіївський район",
+          "Київ"
+        ]
+      }
+    },
+    "phones": [],
+    "dateCreated": "2025-02-19T23:19:06.193"
+  },
+  {
+    "id": "67b64ac31436562c36a62b10",
+    "platformId": "876741307",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/9tpxbu69s2511-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/x29wbjznzq3q1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/4ao8et5dvrpf3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/h7uj8qguji7b-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/80f4r0d81t0n-UA/image"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/zdam-2k-vul-kasyana-metro-podrom-pshki-5hv-IDXkIsP.html?reason=ip%7Ccool_rec_platform",
+    "status": "A",
+    "propertyListing": {
+      "id": "876741307",
+      "operationType": "RENT",
+      "title": "Здам 2к. Вул. Касіяна, метро Іподром пішки 5хв.",
+      "slug": "zdam-2k-vul-kasiyana-metro-ipodrom-pishki-5hv",
+      "location": {
+        "city": "Київ",
+        "district": "Голосіївський",
+        "address": "Вул. Касіяна",
+        "fullAddress": "Вул. Касіяна, Київ, Голосіївський",
+        "coordinates": {
+          "lat": 50.3945,
+          "lng": 30.5112
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 10000,
+        "currency": "UAH",
+        "approxUahPrice": 10000
+      },
+      "description": {
+        "brief": "Здам 2-кімнатну квартиру з євроремонтом, меблями та побутовою технікою.",
+        "full": "Пропонується в оренду 2-кімнатна квартира на Вулиці Касіяна, що розташована в Голосіївському районі Києва, всього в 5 хвилинах пішки від метро Іподром. Квартира на 5-му поверсі 16-поверхового будинку, загальною площею 55 м², з роздільним плануванням. Кухня площею 12 м², євроремонт, меблі та побутова техніка: холодильник, плита, пральна машина. Поруч розташовані торгові центри, спортзали та інші зручності для комфортного життя."
+      },
+      "specifications": {
+        "buildingType": "Цегляний",
+        "floor": 5,
+        "totalFloors": 16,
+        "totalArea": 55.0,
+        "kitchenArea": 12.0,
+        "livingArea": 43.0,
+        "rooms": 2,
+        "wallType": "Цегла",
+        "heating": "Централізоване",
+        "renovation": "Євроремонт",
+        "furnished": true,
+        "balcony": false,
+        "appliances": [
+          "Холодильник",
+          "Плита",
+          "Пральна машина"
+        ],
+        "other": []
+      },
+      "amenities": {
+        "nearby": [
+          "ТЦ Республіка",
+          "Спорт Лайф",
+          "Метро Іподром"
+        ],
+        "other": []
+      },
+      "rules": {
+        "petsAllowed": false,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "Олег",
+        "phone": "380977214521"
+      },
+      "metadata": {
+        "seoTitle": "Оренда 2к квартири на Вул. Касіяна, Київ",
+        "seoDescription": "Здам 2-кімнатну квартиру з євроремонтом та меблями в Голосіївському районі Києва.",
+        "keywords": [
+          "оренда",
+          "квартира",
+          "Київ",
+          "Голосіївський"
+        ]
+      }
+    },
+    "phones": [
+      "097 721 4521"
+    ],
+    "dateCreated": "2025-02-19T23:18:31.009"
+  },
+  {
+    "id": "67b64a9e1436562c36a62b0f",
+    "platformId": "870325567",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/e85g9im6msjv-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/b030jhkit7jt3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ctxz4mtvwtug2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/kfljyy4ai3l-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/4ardjo7dd2n32-UA/image"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/orenda-dvokmnatno-kvartiri-vul-gerov-oboroni-IDVTNr9.html?reason=ip%7Ccool_rec_platform",
+    "status": "A",
+    "propertyListing": {
+      "id": "870325567",
+      "operationType": "RENT",
+      "title": "Оренда двокімнатної квартири вул. Героїв Оборони",
+      "slug": "orenda-dvokimnatnoi-kvartiry-vul-geroiv-oborony",
+      "location": {
+        "city": "Київ",
+        "district": "Голосіївський",
+        "address": "вул. Героїв Оборони 7",
+        "fullAddress": "вул. Героїв Оборони 7, Київ, Голосіївський",
+        "coordinates": {
+          "lat": 50.4015,
+          "lng": 30.5163
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 12500,
+        "currency": "UAH",
+        "approxUahPrice": 12500
+      },
+      "description": {
+        "brief": "Здам в оренду двокімнатну квартиру з косметичним ремонтом на першому поверсі в Голосіївському районі Києва.",
+        "full": "Квартира з дуже зручним розташуванням біля найбільшого парку та озер по вул. Героїв Оборони 7 (Голосіївський р-н). Метро Виставковий центр 7-10 хв пішки. Квартира знаходиться на першому поверсі, на вікнах решітки. Поруч є вся необхідна інфраструктура - магазини, спорткомплекси, зони відпочинку, немає промисловості. У будинку газ, що актуально під час блекаутів! Капітальний ремонт з заміною всіх комунікацій та електропроводів, зроблено індивідуальне перепланування санвузла. Кімнати розташовані дзеркально по обидва боки від кухні та санвузла, що дуже важливо і зручно! Квартира повністю укомплектована всім необхідним для життя."
+      },
+      "specifications": {
+        "buildingType": "Цегляний",
+        "floor": 1,
+        "totalFloors": 5,
+        "totalArea": 45.0,
+        "kitchenArea": 7.0,
+        "livingArea": 38.0,
+        "rooms": 2,
+        "wallType": "Цегляний",
+        "heating": "Централізоване",
+        "renovation": "Косметичний",
+        "furnished": true,
+        "balcony": false,
+        "appliances": [
+          "Wi-Fi",
+          "Швидкісний інтернет"
+        ],
+        "other": [
+          "Суміжний санвузол",
+          "Роздільне планування"
+        ]
+      },
+      "amenities": {
+        "nearby": [
+          "Школа",
+          "Зупинка транспорту",
+          "Метро",
+          "Ринок",
+          "Магазин",
+          "Супермаркет",
+          "ТРЦ",
+          "Парк",
+          "Дитячий майданчик",
+          "Аптека",
+          "Лікарня",
+          "Ресторан",
+          "Кафе",
+          "Відділення банку",
+          "Банкомат"
+        ],
+        "other": [
+          "Озеро до 1 км"
+        ]
+      },
+      "rules": {
+        "petsAllowed": true,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "Дмитро",
+        "phone": "xxx xxx xxx"
+      },
+      "metadata": {
+        "seoTitle": "Оренда двокімнатної квартири в Києві",
+        "seoDescription": "Здам в оренду двокімнатну квартиру на вул. Героїв Оборони у Голосіївському районі Києва.",
+        "keywords": [
+          "Оренда",
+          "Квартира",
+          "Київ",
+          "Голосіївський район",
+          "Двокімнатна квартира"
+        ]
+      }
+    },
+    "phones": [],
+    "dateCreated": "2025-02-19T23:18:10.986"
+  },
+  {
+    "id": "67b64a8a1436562c36a62b0e",
+    "platformId": "876826742",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/njpfa4bt7eok1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/wrlxq9xkbcxu-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/76vhqij44r2r2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/z78fljpqvt2w2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/69eq5qn8qhu43-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/hn9rtz9ma7t83-UA/image"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/orenda-2k-kv-vul-yul-zdanovstko-85-zhk-evrka-metro-podrom-IDXl4GO.html?reason=ip%7Ccool_rec_platform",
+    "status": "A",
+    "propertyListing": {
+      "id": "876826742",
+      "operationType": "RENT",
+      "title": "Оренда 2к кв. вул. Юлії Здановсткої 85, ЖК Евріка, метро Іподром",
+      "slug": "orenda-2k-kv-vul-yulii-zdanovstkoji-85",
+      "location": {
+        "city": "Київ",
+        "district": "Голосіївський",
+        "address": "вул. Юлії Здановсткої 85",
+        "fullAddress": "вул. Юлії Здановсткої 85, Київ, Голосіївський",
+        "coordinates": {
+          "lat": 50.398,
+          "lng": 30.485
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 15000,
+        "currency": "UAH",
+        "approxUahPrice": 15000
+      },
+      "description": {
+        "brief": "Квартира з євроремонтом та меблями в Голосіївському районі Києва.",
+        "full": "Пропонується в оренду 2-кімнатна квартира на вул. Юлії Здановсткої, ЖК Евріка, біля метро Іподром. Квартира має сучасний євроремонт, окремі кімнати, меблі та необхідну побутову техніку (холодильник, плита, пральна машина). Інфраструктура розвинена: поруч дитячий майданчик, кінотеатр, школи, парк, супермаркети та багато іншого. Готова до заселення, розглядаємо різний склад жильців, без габаритних тварин."
+      },
+      "specifications": {
+        "buildingType": "Житловий комплекс",
+        "floor": 7,
+        "totalFloors": 21,
+        "totalArea": 60.0,
+        "kitchenArea": 10.0,
+        "livingArea": 50.0,
+        "rooms": 2,
+        "wallType": "Цегляний",
+        "heating": "Центральне",
+        "renovation": "Євроремонт",
+        "furnished": true,
+        "balcony": false,
+        "appliances": [
+          "Холодильник",
+          "Плита",
+          "Пральна машина"
+        ],
+        "other": []
+      },
+      "amenities": {
+        "nearby": [
+          "Дитячий майданчик",
+          "Кінотеатр",
+          "Школа",
+          "Парк",
+          "Дитячий садок",
+          "Ресторан",
+          "Кафе",
+          "Метро",
+          "Лікарня",
+          "Супермаркет"
+        ],
+        "other": [
+          "Плита",
+          "Холодильник",
+          "Пральна машина"
+        ]
+      },
+      "rules": {
+        "petsAllowed": true,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "Олена",
+        "phone": "380965170877"
+      },
+      "metadata": {
+        "seoTitle": "Оренда 2к квартири в Києві",
+        "seoDescription": "Оренда 2-кімнатної квартири з євроремонтом у Голосіївському районі Києва.",
+        "keywords": [
+          "оренда",
+          "квартира",
+          "Київ",
+          "Голосіївський",
+          "долгострокова оренда"
+        ]
+      }
+    },
+    "phones": [
+      "096 517 0877"
+    ],
+    "dateCreated": "2025-02-19T23:17:30.185"
+  },
+  {
+    "id": "67b64a601436562c36a62b0d",
+    "platformId": "857474746",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/k8zaxchx7rui1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/rcgz25qyvsne-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/bslfan38dbg21-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/0tddf0jw69bg3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/30wavbrb287l2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/e0xxham4tmxn3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/vg86q1605pzu1-UA/image"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/bez-koms-smart-kvartira-20m-kv-zhk-smart-house-vul-shevchenka-73-IDV1SlQ.html?reason=ip%7Ccool_rec_platform",
+    "status": "A",
+    "propertyListing": {
+      "id": "857474746",
+      "operationType": "RENT",
+      "title": "БЕЗ КОМІСІЇ! Смарт квартира 20м.кв. Жк Smart House, вул. Шевченка 73",
+      "slug": "smart-kvartira-lviv",
+      "location": {
+        "city": "Львів",
+        "district": "Залізничний",
+        "address": "вул. Шевченка 73",
+        "fullAddress": "вул. Шевченка 73, Львів, Залізничний",
+        "coordinates": {
+          "lat": 49.8397,
+          "lng": 24.0297
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 14000,
+        "currency": "UAH",
+        "approxUahPrice": 14000
+      },
+      "description": {
+        "brief": "Здається смарт квартира в новому житловому комплексі. Дизайнерський ремонт, автономне опалення, підземний паркінг. Перший раз в оренду.",
+        "full": "Здається невелика смарт квартира для 1 людини в новому житловому комплексі. Дизайнерський ремонт 2025 року, перша здача, ще ніхто не проживав. Опалення тепловим насосом, власний генератор та укриття в підземному паркінгу. Квартира має все необхідне для комфортного життя: кондиціонер, пральна машина, телевізор, плита, мікрохвильовка, електрочайник, бойлер, велике ліжко. До центру міста 20 хвилин пішки. Підземний паркінг, великий хол з патіо зоною, два ресторани на першому поверсі (один цілодобовий). Поруч магазини, спортзал, нова пошта, салони краси, кав'ярні та багато іншого."
+      },
+      "specifications": {
+        "buildingType": "Житловий фонд від 2011 р.",
+        "floor": 3,
+        "totalFloors": 7,
+        "totalArea": 20.0,
+        "kitchenArea": 2.0,
+        "livingArea": 20.0,
+        "rooms": 1,
+        "wallType": "Монолітний",
+        "heating": "Тепловий насос",
+        "renovation": "Авторський проект",
+        "furnished": true,
+        "balcony": false,
+        "appliances": [
+          "Електрочайник",
+          "Фен",
+          "Плита",
+          "Варильна панель",
+          "Мікрохвильова піч",
+          "Холодильник"
+        ],
+        "other": []
+      },
+      "amenities": {
+        "nearby": [
+          "Зупинка транспорту",
+          "Магазин",
+          "Супермаркет",
+          "ТРЦ",
+          "Парк",
+          "Дитячий майданчик",
+          "Аптека",
+          "Ресторан",
+          "Центр міста"
+        ],
+        "other": [
+          "Підземний паркінг",
+          "Відеоспостереження",
+          "Охорона території",
+          "Кондиціонер"
+        ]
+      },
+      "rules": {
+        "petsAllowed": false,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "Александр",
+        "phone": "xxx xxx xxx"
+      },
+      "metadata": {
+        "seoTitle": "Оренда смарт квартири у Львові",
+        "seoDescription": "Оренда смарт квартири з дизайнерським ремонтом у новому житловому комплексі у Львові без комісії.",
+        "keywords": [
+          "оренда",
+          "квартира",
+          "Львів",
+          "смарт квартира",
+          "без комісії"
+        ]
+      }
+    },
+    "phones": [
+      "+38 099 5509311"
+    ],
+    "dateCreated": "2025-02-19T23:17:10.236"
+  },
+  {
+    "id": "67b64a4d1436562c36a62b0c",
+    "platformId": "877589096",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/4b7n8oi818rw1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/3ew3026tijo83-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/s3fxba608obt3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/y4ba58s04kj33-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/21bta83tx80h3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/xqg9c7g37dx62-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/nc7emh50ac5l1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/em07pmhbfuvi1-UA/image"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/1-kmnatna-kvartira-u-zhk-shengen-dovgostrokova-orena-vul-zalznichna-IDXoh0Q.html?reason=ip%7Ccool_rec_platform",
+    "status": "A",
+    "propertyListing": {
+      "id": "877589096",
+      "operationType": "RENT",
+      "title": "1 Кімнатна Квартира у ЖК Шенген",
+      "slug": "1-kimnatna-kvartira-u-zhk-shenhen",
+      "location": {
+        "city": "Львів",
+        "district": "Залізничний",
+        "address": "вул. Залізнична",
+        "fullAddress": "вул. Залізнична, Львів, Залізничний",
+        "coordinates": {
+          "lat": 49.8397,
+          "lng": 24.0297
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 15000,
+        "currency": "UAH",
+        "approxUahPrice": 15000
+      },
+      "description": {
+        "brief": "Здам у довгострокову оренду 1 кімнатну квартиру з кухнею студіо у ЖК Шенген, Львів.",
+        "full": "Від власника здам у довгострокову оренду 1 кімнатну квартиру з кухнею студіо в ЖК Шенген на 3 поверсі. Квартира з євроремонтом, мебльована, з побутовою технікою, автономним опаленням та швидкісним інтернетом. Вартість оренди 15000 грн + КП. Без домашніх тварин. Додаткове доукомплектування можливе за домовленістю."
+      },
+      "specifications": {
+        "buildingType": "Житловий фонд від 2011 р.",
+        "floor": 3,
+        "totalFloors": 7,
+        "totalArea": 57.2,
+        "kitchenArea": 24.1,
+        "livingArea": 33.1,
+        "rooms": 1,
+        "wallType": "Цегляний",
+        "heating": "Власна котельня",
+        "renovation": "Євроремонт",
+        "furnished": true,
+        "balcony": true,
+        "appliances": [
+          "Холодильник",
+          "Варильна панель",
+          "Духова шафа",
+          "Пральна машина"
+        ],
+        "other": [
+          "Інтернет",
+          "Кабельне ТБ",
+          "Швидкісний інтернет",
+          "Телевізор"
+        ]
+      },
+      "amenities": {
+        "nearby": [
+          "Аптека",
+          "Зупинка транспорту",
+          "Відділення банку",
+          "Магазин",
+          "Ресторан",
+          "Дитячий майданчик"
+        ],
+        "other": [
+          "Панорамні вікна",
+          "Гардероб",
+          "Відеоспостереження",
+          "Душова кабіна"
+        ]
+      },
+      "rules": {
+        "petsAllowed": false,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "Михайло",
+        "phone": "Не вказано"
+      },
+      "metadata": {
+        "seoTitle": "Оренда 1 кімнатної квартири у ЖК Шенген, Львів",
+        "seoDescription": "Довгострокова оренда 1 кімнатної квартири в ЖК Шенген, Львів. З меблями, побутовою технікою та швидкісним інтернетом.",
+        "keywords": [
+          "оренда",
+          "квартира",
+          "Львів",
+          "ЖК Шенген",
+          "довгострокова оренда"
+        ]
+      }
+    },
+    "phones": [],
+    "dateCreated": "2025-02-19T23:16:33.888"
+  },
+  {
+    "id": "67b64a281436562c36a62b0b",
+    "platformId": "874312264",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/sb93hrppzrfy2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/m4lelm98n86x1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/urcd4ikzw3a12-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/tkiv0bfi95rs3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ihqbq35zwfch1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/n5chlj78hrho2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/tax593iq0cbd1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/03yxykcn1xks3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/u8iv4ijlnfp3-UA/image"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/orenda-2-h-kmnatno-kvartiri-na-golovatskogo-bez-IDXavyI.html?reason=ip%7Ccool_rec_platform",
+    "status": "A",
+    "propertyListing": {
+      "id": "874312264",
+      "operationType": "RENT",
+      "title": "Оренда 2-х кімнатної квартири на Головацького без %",
+      "slug": "orenda-2-h-kimnatnoi-kvartyry-na-golovatskoho-bez-%",
+      "location": {
+        "city": "Львів",
+        "district": "Залізничний",
+        "address": "вул. Головацького",
+        "fullAddress": "вул. Головацького, Львів, Залізничний",
+        "coordinates": {
+          "lat": 49.8425,
+          "lng": 24.0316
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 17000,
+        "currency": "UAH",
+        "approxUahPrice": 17000
+      },
+      "description": {
+        "brief": "Пропонуємо 2 кімнатну квартиру з новими меблями та технікою, швидкісний інтернет, зручне розташування.",
+        "full": "Пропонуємо Вашій увазі 2 кімнатну квартиру з новими меблями та технікою. В наявності посуд та за потреби постільна білизна. Швидкісний інтернет забезпечує комфорт. Квартира знаходиться в зручному місці, ближче до центру міста. Оренда без комісії."
+      },
+      "specifications": {
+        "buildingType": "Царський будинок",
+        "floor": 3,
+        "totalFloors": 4,
+        "totalArea": 48.0,
+        "kitchenArea": 10.0,
+        "livingArea": 38.0,
+        "rooms": 2,
+        "wallType": "Цегляний",
+        "heating": "Індивідуальне електро",
+        "renovation": "Косметичний ремонт",
+        "furnished": true,
+        "balcony": false,
+        "appliances": [
+          "Холодильник",
+          "Пральна машина",
+          "Праска",
+          "Духова шафа",
+          "Плита"
+        ],
+        "other": [
+          "Госп. приміщення",
+          "Комора",
+          "Меблі на кухні",
+          "Ванна"
+        ]
+      },
+      "amenities": {
+        "nearby": [
+          "Магазин",
+          "Кіоск",
+          "Дитячий садок",
+          "Школа",
+          "Аптека",
+          "Ресторан",
+          "Кафе",
+          "Дитячий майданчик",
+          "Зупинка транспорту",
+          "Ринок"
+        ],
+        "other": [
+          "Швидкісний інтернет",
+          "Кабельне",
+          "Цифрове ТБ"
+        ]
+      },
+      "rules": {
+        "petsAllowed": false,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "Роман",
+        "phone": "xxx xxx xxx"
+      },
+      "metadata": {
+        "seoTitle": "Оренда 2-х кімнатної квартири на Головацького",
+        "seoDescription": "Довгострокова оренда 2-х кімнатної квартири в Львові, Залізничний район. Без комісії, нові меблі та техніка.",
+        "keywords": [
+          "оренда",
+          "квартира",
+          "Львів",
+          "двокімнатна",
+          "без комісії"
+        ]
+      }
+    },
+    "phones": [
+      "+38 098 4448721"
+    ],
+    "dateCreated": "2025-02-19T23:16:11.772"
+  },
+  {
+    "id": "67b64a131436562c36a62b0a",
+    "platformId": "859793623",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/jossh6oommy42-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/60mlyqxuxvzp-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/qgahgx0siz882-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/pc1jtftbyvw81-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/7z150kkza2oy1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/i58benzk5xve3-UA/image"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/dvokmnatna-2-kmnatna-kvartira-orenda-frankvskiy-rayon-pvdenniy-IDVbBB5.html?reason=ip%7Ccool_rec_platform",
+    "status": "A",
+    "propertyListing": {
+      "id": "859793623",
+      "operationType": "RENT",
+      "title": "Двокімнатна 2 кімнатна квартира оренда Франківський район Південний",
+      "slug": "dvoikimnatna-kvartyra-orenda-frankivskyi-raion-pivdennyi",
+      "location": {
+        "city": "Львів",
+        "district": "Франківський",
+        "address": "Виговського",
+        "fullAddress": "Виговського, Львів, Франківський",
+        "coordinates": {
+          "lat": 49.8419,
+          "lng": 24.0316
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 15000,
+        "currency": "UAH",
+        "approxUahPrice": 15000
+      },
+      "description": {
+        "brief": "2 кімнатна квартира в оренду у Франківському районі Львова.",
+        "full": "Двокімнатна квартира в оренду довготривала, з ремонтом, меблями, в гарному житловому стані. Здається від хороших власників з оплатою помісячно. Невеличка економна двокімнатна квартира, в наявності ванна, балкон, гарний стан. Зручна локація: поблизу Південний ринок."
+      },
+      "specifications": {
+        "buildingType": "Житловий",
+        "floor": 4,
+        "totalFloors": 9,
+        "totalArea": 43.0,
+        "kitchenArea": 6.0,
+        "livingArea": 37.0,
+        "rooms": 2,
+        "wallType": "Цегляний",
+        "heating": "Централізоване",
+        "renovation": "Євроремонт",
+        "furnished": true,
+        "balcony": true,
+        "appliances": [
+          "Фен",
+          "Плита",
+          "Варильна панель",
+          "Духова шафа",
+          "Мікрохвильова піч",
+          "Мультиварка",
+          "Холодильник",
+          "Пральна машина"
+        ],
+        "other": [
+          "Автономність при блекауті: Працює інтернет, Працює водопостачання"
+        ]
+      },
+      "amenities": {
+        "nearby": [
+          "Південний ринок"
+        ],
+        "other": [
+          "Можна студентам",
+          "Можна іноземцям",
+          "Можна з дітьми",
+          "Можна курити"
+        ]
+      },
+      "rules": {
+        "petsAllowed": true,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "Користувач",
+        "phone": "380673190758"
+      },
+      "metadata": {
+        "seoTitle": "Оренда двокімнатної квартири у Франківському районі Львова",
+        "seoDescription": "Оренда двокімнатної квартири з євроремонтом, меблями в Львові, Франківський район.",
+        "keywords": [
+          "оренда",
+          "квартира",
+          "Львів",
+          "Франківський",
+          "довготривала"
+        ]
+      }
+    },
+    "phones": [],
+    "dateCreated": "2025-02-19T23:15:25.523"
+  },
+  {
+    "id": "67b649e61436562c36a62b09",
+    "platformId": "830606420",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/xwx1d7twxihg1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/hd4gd9wcjtpt3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/jjxke20dhapd3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/y29nmfi9e71h2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/6au6comyay653-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/0h7iroli4pi33-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ahpum8k6h73d3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/69yfy6xsshrp3-UA/image"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/dvokmnatna-kvartira-tsentr-vlasnik-IDUd8FK.html?reason=ip%7Ccool_rec_platform",
+    "status": "A",
+    "propertyListing": {
+      "id": "830606420",
+      "operationType": "RENT",
+      "title": "Двокімнатна квартира ,центр. Власник.",
+      "slug": "dvokimnatna-kvartira-tsentr-vlasnyk",
+      "location": {
+        "city": "Львів",
+        "district": "Галицький",
+        "address": "Вулиця Ляйнберга",
+        "fullAddress": "Вулиця Ляйнберга, Львів, Галицький",
+        "coordinates": {
+          "lat": 49.8397,
+          "lng": 24.0297
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 20000,
+        "currency": "UAH",
+        "approxUahPrice": 20000
+      },
+      "description": {
+        "brief": "Двокімнатна квартира в центрі Львова, з авторським ремонтом та сучасними зручностями.",
+        "full": "Оренда двокімнатної квартири в центрі Львова. Квартира має студію, дві ізольовані спальні, окрему ванну та туалет. В установці: двофункціональний газовий котел, два кондиціонери, пральна машинка, три телевізори, швидкісний інтернет. Фасад утеплений пінопластом. Знаходиться на другому поверсі царського будинку, всього три квартири. Є комірка та горище. Від Оперного театру всього 400 м."
+      },
+      "specifications": {
+        "buildingType": "Царський будинок",
+        "floor": 2,
+        "totalFloors": 2,
+        "totalArea": 46.1,
+        "kitchenArea": 18.0,
+        "livingArea": 0.0,
+        "rooms": 2,
+        "wallType": "Цегляний",
+        "heating": "Індивідуальне газове",
+        "renovation": "Авторський проект",
+        "furnished": true,
+        "balcony": false,
+        "appliances": [
+          "Телевізор",
+          "Швидкісний інтернет",
+          "Пральна машинка",
+          "Кондиціонер"
+        ],
+        "other": [
+          "Підігрів підлоги",
+          "Ванна"
+        ]
+      },
+      "amenities": {
+        "nearby": [
+          "Центр міста",
+          "Парк"
+        ],
+        "other": []
+      },
+      "rules": {
+        "petsAllowed": false,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "Юрій",
+        "phone": "xxx xxx xxx"
+      },
+      "metadata": {
+        "seoTitle": "Оренда двокімнатної квартири в центрі Львова",
+        "seoDescription": "Здається в оренду двокімнатна квартира в центрі Львова з авторським ремонтом.",
+        "keywords": [
+          "оренда",
+          "квартира",
+          "Львів",
+          "власник",
+          "центр"
+        ]
+      }
+    },
+    "phones": [
+      "097 443 5767"
+    ],
+    "dateCreated": "2025-02-19T23:15:08.082"
+  },
+  {
+    "id": "67b649d31436562c36a62b08",
+    "platformId": "784965899",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/wmdbi5fb49r72-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/tuxbva0bm8zo-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/qykh8rzwkrst-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/gugjwh9gd5hj1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/gqzqsfl8xsss-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ggbj0itxkhfl3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/j1hk4puy1fd4-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/030msyil3or03-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/6k0bj13ao089-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/0cgnfz0x5nw63-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/tuydxx3ghihw-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/hshiuomn6tai3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/zcaamfk9md4f3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/4g00syf3bjur2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/8z9aimvmgesc2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/dp72fsh30ziv3-UA/image"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/orerda-1k-kvartiri-frankvskiy-r-n-konovaltsya-pskov-ozera-IDR7Duj.html?reason=ip%7Crecent",
+    "status": "A",
+    "propertyListing": {
+      "id": "784965899",
+      "operationType": "RENT",
+      "title": "Оренда 1к Квартири в Франківському Районі",
+      "slug": "orenda-1k-kvartiri-frankivskomu-rayoni",
+      "location": {
+        "city": "Львів",
+        "district": "Франківський",
+        "address": "вулиця Коновальця",
+        "fullAddress": "вулиця Коновальця, Львів, Франківський",
+        "coordinates": {
+          "lat": 49.8397,
+          "lng": 24.0297
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 400,
+        "currency": "USD",
+        "approxUahPrice": 16800
+      },
+      "description": {
+        "brief": "Здам в оренду простору 1к квартиру в елітному районі Львова.",
+        "full": "Пропоную в оренду простору 1к квартиру в елітному Франківському районі Львова, загальною площею 49м2. Квартира розташована на 1 поверсі трьохповерхового будинку з окремим входом. В квартирі є 1 кімната та кухня, виконано якісний євроремонт. З меблюванням, є вся необхідна побутова техніка: плита, холодильник, пральна машина, мікрохвильова піч, електрочайник. У квартирі також є телевізор та Wi-Fi. Чудова інфраструктура навколо: школа, садочок, супермаркет, парк. Спокійна атмосфера, відсутність сусідів, закрите подвір'я. Оренда за 400 доларів на місяць."
+      },
+      "specifications": {
+        "buildingType": "Цегляний",
+        "floor": 1,
+        "totalFloors": 3,
+        "totalArea": 49.0,
+        "kitchenArea": 13.0,
+        "livingArea": 23.0,
+        "rooms": 1,
+        "wallType": "Цегляний",
+        "heating": "Індивідуальне газове",
+        "renovation": "Євроремонт",
+        "furnished": true,
+        "balcony": false,
+        "appliances": [
+          "Плита",
+          "Холодильник",
+          "Пральна машина",
+          "Мікрохвильова піч",
+          "Електрочайник",
+          "Телевізор",
+          "Wi-Fi"
+        ],
+        "other": [
+          "Душова кабіна",
+          "Паркувальне місце",
+          "Гардероб",
+          "Охорона території",
+          "Меблі на кухні"
+        ]
+      },
+      "amenities": {
+        "nearby": [
+          "Школа",
+          "Центр міста",
+          "Аптека",
+          "Магазин",
+          "Дитячий садок",
+          "Супермаркет",
+          "Парк"
+        ],
+        "other": [
+          "Зупинка транспорту",
+          "Дитячий майданчик",
+          "Відділення банку",
+          "Кінотеатр",
+          "Ресторан",
+          "Кафе"
+        ]
+      },
+      "rules": {
+        "petsAllowed": false,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "Тетяна",
+        "phone": "xxx xxx xxx"
+      },
+      "metadata": {
+        "seoTitle": "Оренда 1к Квартири у Львові",
+        "seoDescription": "Здам в оренду простору 1к квартиру в елітному районі Львова.",
+        "keywords": [
+          "оренда",
+          "квартира",
+          "Львів",
+          "Франківський район",
+          "довгострокова оренда"
+        ]
+      }
+    },
+    "phones": [
+      "068 501 3888"
+    ],
+    "dateCreated": "2025-02-19T23:14:44.29"
+  },
+  {
+    "id": "67b649ba1436562c36a62b07",
+    "platformId": "876349329",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/q73ejyog0h11-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/fh0gqkbmjr38-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/wnkw4xe34lwj3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/zl1n6w6yps5p1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/wvqganutiu5r-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/s3c43t3eqdjw2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/f82nonmrpmw-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ge4xc832ixd3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/y3xupp2bj66r3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/99atvh0c6twm2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/73v0fsm11elb3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/i2ilzyhqth5c-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ueq2844ukom21-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/7hdd86owbni51-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/jymg1rri2pc6-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/kx4epktvp1qg3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/kon4xjhqdbpy2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/xcnaounn3q801-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/2g79booaz1c7-UA/image"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/dovgostrokova-orenda-2-h-kmnatno-kvartiri-na-vul-maksimovicha-IDXj4uB.html?reason=ip%7Crecent",
+    "status": "A",
+    "propertyListing": {
+      "id": "876349329",
+      "operationType": "RENT",
+      "title": "Довгострокова оренда 2-х кімнатної квартири на вул. Максимовича",
+      "slug": "dovgostrokova-orenda-2-h-kimnatnoi-kvartiry-na-vul-maksymovycha",
+      "location": {
+        "city": "Львів",
+        "district": "Сихівський",
+        "address": "вул. Максимовича",
+        "fullAddress": "вул. Максимовича, Львів, Сихівський",
+        "coordinates": {
+          "lat": 49.8397,
+          "lng": 24.0297
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 13500,
+        "currency": "UAH",
+        "approxUahPrice": 13500
+      },
+      "description": {
+        "brief": "Здається 2-комн.кв. квартира з меблями та необхідною побутовою технікою.",
+        "full": "Здається 2-комн.кв. квартира по вул. Максимовича з меблями та усією необхідною побутовою технікою, включаючи газову колонку та кондиціонер. У квартирі є лічильники на всі комунікації. Поруч розташовані садок, школи, лікарня та магазини. Готова до здачі з 4.02."
+      },
+      "specifications": {
+        "buildingType": "Цегляний",
+        "floor": 3,
+        "totalFloors": 5,
+        "totalArea": 46.0,
+        "kitchenArea": 6.0,
+        "livingArea": 40.0,
+        "rooms": 2,
+        "wallType": "Цегляний",
+        "heating": "Газ",
+        "renovation": "Євро",
+        "furnished": true,
+        "balcony": false,
+        "appliances": [
+          "Холодильник",
+          "Мультиварка",
+          "Духова шафа",
+          "Плита",
+          "Пральна машина",
+          "Телевізор",
+          "Wi-Fi"
+        ],
+        "other": []
+      },
+      "amenities": {
+        "nearby": [
+          "Відділення банку",
+          "Банкомат",
+          "Аптека",
+          "Дитячий садок",
+          "Ринок",
+          "Парк",
+          "Зелена зона",
+          "Відділення пошти",
+          "Ресторан",
+          "Кафе",
+          "Школа",
+          "Магазин",
+          "Кіоск",
+          "Зупинка транспорту"
+        ],
+        "other": []
+      },
+      "rules": {
+        "petsAllowed": false,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "Андрій",
+        "phone": "xxx xxx xxx"
+      },
+      "metadata": {
+        "seoTitle": "Довгострокова оренда 2-х кімнатної квартири у Львові",
+        "seoDescription": "Здається 2-комн.кв. квартира по вул. Максимовича з меблями та усією необхідною побутовою технікою.",
+        "keywords": [
+          "Оренда",
+          "Квартира",
+          "Львів",
+          "Сихівський"
+        ]
+      }
+    },
+    "phones": [],
+    "dateCreated": "2025-02-19T23:14:29.181"
+  },
+  {
+    "id": "67b649aa1436562c36a62b06",
+    "platformId": "877376093",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/mh4098yceb723-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/2g2e0b7rft57-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/b6q4ch5ddlmf-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/9eqfwfehh4cu2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/hjsicpnxu6d92-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/b7rtkrer5qsv2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/hyrkexai3npp-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/s78v6osh8atj-UA/image"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/orenda-2-k-kvartiri-na-prosp-chervono-kalini-IDXnnBj.html?reason=ip%7Crecent",
+    "status": "A",
+    "propertyListing": {
+      "id": "877376093",
+      "operationType": "RENT",
+      "title": "Оренда 2-к квартири на просп. Червоної Калини",
+      "slug": "orenda-2-k-kvartiry-na-prosp-chervonoyi-kalyny",
+      "location": {
+        "city": "Львів",
+        "district": "Сихівський",
+        "address": "проспект Червоної Калини",
+        "fullAddress": "проспект Червоної Калини, Львів, Сихівський",
+        "coordinates": {
+          "lat": 49.7803,
+          "lng": 23.9742
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 13000,
+        "currency": "UAH",
+        "approxUahPrice": 13000
+      },
+      "description": {
+        "brief": "Оренда 2-кімнатної квартири на Сихові. Чудове розташування та інфраструктура.",
+        "full": "Оренда 2-кімнатної квартири на Сихові, проспект Червоної Калини. Площа: 45 м², поверх: 4 із 9. У квартирі є вся необхідна техніка: кондиціонер, кавомашинка, мікрохвильовка, бойлер, пральна машинка, пилосос, праска, телевізор. Є інтернет та Wi-Fi. Засклений балкон, квартира тепла зимою. Чудове розташування та інфраструктура з аптекою, зупинкою транспорту, магазином та супермаркетом в пішій доступності."
+      },
+      "specifications": {
+        "buildingType": "Цегляний",
+        "floor": 4,
+        "totalFloors": 9,
+        "totalArea": 45.0,
+        "kitchenArea": 8.0,
+        "livingArea": 37.0,
+        "rooms": 2,
+        "wallType": "Цегляний",
+        "heating": "Центральне",
+        "renovation": "Середній",
+        "furnished": true,
+        "balcony": true,
+        "appliances": [
+          "Електрочайник",
+          "Холодильник",
+          "Кавомашина",
+          "Мікрохвильова піч",
+          "Варильна панель",
+          "Пральна машина",
+          "Пилосос",
+          "Праска"
+        ],
+        "other": [
+          "Телевізор",
+          "Душова кабіна",
+          "Ліфт",
+          "Кондиціонер"
+        ]
+      },
+      "amenities": {
+        "nearby": [
+          "Аптека",
+          "Зупинка транспорту",
+          "Магазин",
+          "Супермаркет",
+          "ТРЦ"
+        ],
+        "other": []
+      },
+      "rules": {
+        "petsAllowed": false,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "marthaguerrero1992",
+        "phone": "xxx xxx xxx"
+      },
+      "metadata": {
+        "seoTitle": "Оренда 2-к квартири на просп. Червоної Калини у Львові",
+        "seoDescription": "Довгострокова оренда 2-кімнатної квартири на Сихові. Простора квартира з усіма необхідними зручностями.",
+        "keywords": [
+          "оренда",
+          "квартира",
+          "Львів",
+          "Сихівський",
+          "долгострокова оренда"
+        ]
+      }
+    },
+    "phones": [],
+    "dateCreated": "2025-02-19T23:14:12.815"
+  },
+  {
+    "id": "67b6498d1436562c36a62b05",
+    "platformId": "875648472",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/5owcwonb12cu3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/p2c2nmzxhz5r-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/lo02v6otzs6q1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/lm2fn79y61lc-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/r0ij23n9h0vr2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/prxynyyiv2211-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/s3i9my92ehuc3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/n7gklooku5w12-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/xadkidlo22ys1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/vpxc2zf4uk4y2-UA/image",
+      "https://img-resizer.prd.01.eu-west-1.eu.olx.org/img-eu-olxua-production/677267804_1_100x100_rev034.jpg",
+      "https://img-resizer.prd.01.eu-west-1.eu.olx.org/img-eu-olxua-production/677267804_1_100x100_rev034.jpg"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/vlna-2-h-km-kvartira-zabobolotnogo-IDXg8as.html?reason=ip%7Crecent",
+    "status": "A",
+    "propertyListing": {
+      "id": "875648472",
+      "operationType": "RENT",
+      "title": "Вільна 2-х кім квартира Забоболотного",
+      "slug": "vylna-2-h-kim-kvartyra-zabolotnoho",
+      "location": {
+        "city": "Київ",
+        "district": "Голосіївський",
+        "address": "Ак. Заболотного",
+        "fullAddress": "Ак. Заболотного, Київ, Голосіївський",
+        "coordinates": {
+          "lat": 50.411,
+          "lng": 30.516
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 12000,
+        "currency": "UAH",
+        "approxUahPrice": 12000
+      },
+      "description": {
+        "brief": "Вільна тепла 2-х кімнатна квартира в оренду з косметичним ремонтом.",
+        "full": "Вільна 2-х кімнатна квартира в Києві на Ак. Заболотного. Площа 45 м², кухня 7 м², косметичний ремонт, автономне опалення, балкон, меблі на кухні. Поруч супермаркет, зупинка транспорту, ринок. До метро 15 хвилин. Оплата за 2 місяці, комісія 50%."
+      },
+      "specifications": {
+        "buildingType": "Панельний",
+        "floor": 3,
+        "totalFloors": 9,
+        "totalArea": 45.0,
+        "kitchenArea": 7.0,
+        "livingArea": 38.0,
+        "rooms": 2,
+        "wallType": "Панельний",
+        "heating": "Централізоване",
+        "renovation": "Косметичний ремонт",
+        "furnished": true,
+        "balcony": true,
+        "appliances": [
+          "Пральна машина",
+          "Варильна панель",
+          "Холодильник"
+        ],
+        "other": []
+      },
+      "amenities": {
+        "nearby": [
+          "Супермаркет",
+          "ТРЦ",
+          "Парк",
+          "Зелена зона",
+          "Зупинка транспорту",
+          "Магазин",
+          "Кіоск",
+          "Ринок"
+        ],
+        "other": []
+      },
+      "rules": {
+        "petsAllowed": false,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "Ніна Швець",
+        "phone": "xxx xxx xxx"
+      },
+      "metadata": {
+        "seoTitle": "Оренда 2-х кімнатної квартири в Києві",
+        "seoDescription": "Здається в оренду 2-х кімнатна квартира на Ак. Заболотного, Київ. Вигідні умови.",
+        "keywords": [
+          "оренда",
+          "квартира",
+          "Київ",
+          "Голосіївський",
+          "2 кімнати"
+        ]
+      }
+    },
+    "phones": [
+      "067 711 0130"
+    ],
+    "dateCreated": "2025-02-19T23:13:43.389"
+  },
+  {
+    "id": "67b6495d1436562c36a62b04",
+    "platformId": "742974631",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/2txj6d1roj403-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/5yco6a4eitl91-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/i4omxk8x5oup2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/l6a1xqeao9n22-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/j3t78b83pkll-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/pb7i8ye25o9j2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/xtquif3116y02-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/d281hh6q72oe3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/n40cg04iuqlf3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/tdgm6qa5ulr92-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/f0l57sqx6rmm3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/azo08v98y7ik2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/yvaq3xc0et0i1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/xhzchmzmxmst3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/dpi4azo84g811-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/8vyi7qfe88g42-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/hjsgunvgrqdd3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/g7v6a85wewd43-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/8cdvd9yqfekm3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/rqq41x5q8uh02-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/gk8zxr4281jt1-UA/image"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/vlasnik-zdam-v-orendu-2-h-kmnatnu-kvartiru-IDOhrDN.html?reason=ip%7Ccool_rec_platform",
+    "status": "A",
+    "propertyListing": {
+      "id": "742974631",
+      "operationType": "RENT",
+      "title": "Здам в оренду 2-х кімнатну квартиру",
+      "slug": "zdam-v-orendu-2-h-kimnatnu-kvartiru",
+      "location": {
+        "city": "Львів",
+        "district": "Шевченківський",
+        "address": "вул.Джерельна",
+        "fullAddress": "вул.Джерельна, Львів, Шевченківський",
+        "coordinates": {
+          "lat": 49.8425,
+          "lng": 24.0315
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 16000,
+        "currency": "UAH",
+        "approxUahPrice": 16000
+      },
+      "description": {
+        "brief": "Здається в оренду 2 кімнатна квартира в Шевченківському районі Львова.",
+        "full": "Здається в оренду 2 кімнатна квартира в районі Форума, вул. Джерельна. Квартира з євроремонтом, повністю мебльована та оснащена побутовою технікою, включаючи електрочайник, пральну машину, холодильник, мікрохвильову піч та духову шафу. В квартирі також є телевізор та Wi-Fi. Опалення - індивідуальне газове. Здається на довгий термін. У пішій доступності розташовані дитячий садок, супермаркет, ТРЦ, аптека, бювет, дитячий майданчик та парк."
+      },
+      "specifications": {
+        "buildingType": "Житловий фонд від 2011 р.",
+        "floor": 2,
+        "totalFloors": 2,
+        "totalArea": 50.0,
+        "kitchenArea": 10.0,
+        "livingArea": 40.0,
+        "rooms": 2,
+        "wallType": "Цегляний",
+        "heating": "Індивідуальне газове",
+        "renovation": "Євроремонт",
+        "furnished": true,
+        "balcony": false,
+        "appliances": [
+          "Електрочайник",
+          "Пральна машина",
+          "Холодильник",
+          "Мікрохвильова піч",
+          "Духова шафа"
+        ],
+        "other": [
+          "Телевізор",
+          "Wi-Fi"
+        ]
+      },
+      "amenities": {
+        "nearby": [
+          "Дитячий садок",
+          "Супермаркет",
+          "ТРЦ",
+          "Аптека",
+          "Бювет",
+          "Дитячий майданчик",
+          "Парк",
+          "зелена зона"
+        ],
+        "other": [
+          "Ванна",
+          "Газ"
+        ]
+      },
+      "rules": {
+        "petsAllowed": false,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "Світлана",
+        "phone": "09*********09"
+      },
+      "metadata": {
+        "seoTitle": "Здам в оренду 2-х кімнатну квартиру у Львові",
+        "seoDescription": "Довгострокова оренда 2 кімнатної квартири у Львові, Шевченківський район.",
+        "keywords": [
+          "оренда",
+          "квартира",
+          "Львів",
+          "Шевченківський",
+          "довгострокова оренда"
+        ]
+      }
+    },
+    "phones": [],
+    "dateCreated": "2025-02-19T23:12:32.987"
+  },
+  {
+    "id": "67b649081436562c36a62b03",
+    "platformId": "866132271",
+    "pictures": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/cl020kkkx22z1-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/57ylf49hywbx-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/k1g4zb2f66ac3-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/majw8brc4hwe2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/aduqdc6w1pn5-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/eps5y5c935gv2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/nqrfytp3o4qf2-UA/image",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/xgyfwbxpbyxx-UA/image"
+    ],
+    "linkUrl": "https://www.olx.ua/d/uk/obyavlenie/kvartira-odnokmnatna-tsentr-pl-mtskevicha-vlasnik-IDVCczl.html?reason=extended_search_no_results_distance",
+    "status": "A",
+    "propertyListing": {
+      "id": "866132271",
+      "operationType": "RENT",
+      "title": "Квартира однокімнатна . Центр. Пл. Міцкевича. Власник.",
+      "slug": "kvartira-odnokimnatna-tsentr-pl-mitskevicha-vlasnik",
+      "location": {
+        "city": "Львів",
+        "district": "Франківський",
+        "address": "Пл. Міцкевича",
+        "fullAddress": "Пл. Міцкевича, Львів, Франківський",
+        "coordinates": {
+          "lat": 49.8397,
+          "lng": 24.0297
+        }
+      },
+      "propertyType": "APARTMENT",
+      "price": {
+        "amount": 450,
+        "currency": "USD",
+        "approxUahPrice": 18900
+      },
+      "description": {
+        "brief": "Однокімнатна квартира в центрі Львова з дизайнерським ремонтом.",
+        "full": "Пропонується в оренду однокімнатна квартира площею 30 м² на четвертому поверсі царського будинку в центрі Львова, на площі Міцкевича. Квартира має високі стелі, великі вікна, сучасний дизайнерський ремонт, автономне газове опалення, кондиціонер. Кухня-студія, суміжний санвузол, меблі та вся необхідна побутова техніка: праска, холодильник, мікрохвильова піч та електрочайник. Інтернет та телевізор доступні. Відмінне місцерозташування в центрі міста, поруч парк."
+      },
+      "specifications": {
+        "buildingType": "Царський будинок",
+        "floor": 4,
+        "totalFloors": 4,
+        "totalArea": 30.0,
+        "kitchenArea": 19.0,
+        "livingArea": 30.0,
+        "rooms": 1,
+        "wallType": "Цегляний",
+        "heating": "Індивідуальне газове",
+        "renovation": "Авторський проект",
+        "furnished": true,
+        "balcony": false,
+        "appliances": [
+          "Праска",
+          "Холодильник",
+          "Мікрохвильова піч",
+          "Варильна панель",
+          "Електрочайник"
+        ],
+        "other": [
+          "Душова кабіна",
+          "Підігрів підлоги",
+          "Меблі на кухні",
+          "Кондиціонер"
+        ]
+      },
+      "amenities": {
+        "nearby": [
+          "Центр міста",
+          "Парк"
+        ],
+        "other": []
+      },
+      "rules": {
+        "petsAllowed": false,
+        "studentsAllowed": true,
+        "foreignersAllowed": true
+      },
+      "contact": {
+        "name": "Юрій",
+        "phone": "xxx xxx xxx"
+      },
+      "metadata": {
+        "seoTitle": "Оренда однокімнатної квартири в центрі Львова",
+        "seoDescription": "Здам в оренду квартиру в центрі Львова з дизайнерським ремонтом.",
+        "keywords": [
+          "оренда",
+          "квартира",
+          "Львів",
+          "центр",
+          "однокімнатна"
+        ]
+      }
+    },
+    "phones": [
+      "097 443 5767"
+    ],
+    "dateCreated": "2025-02-19T23:10:06.013"
+  }
+]

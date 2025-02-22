@@ -1,0 +1,223 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "operationType": {
+      "type": "string",
+      "enum": ["RENT", "SALE", "UNKNOWN"]
+    },
+    "title": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "location": {
+      "type": "object",
+      "properties": {
+        "city": {
+          "type": "string"
+        },
+        "district": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "fullAddress": {
+          "type": "string"
+        },
+        "coordinates": {
+          "type": "object",
+          "properties": {
+            "lat": {
+              "type": "number"
+            },
+            "lng": {
+              "type": "number"
+            }
+          },
+          "required": ["lat", "lng"],
+          "additionalProperties": false
+        }
+      },
+      "required": ["city", "district", "address", "coordinates", "fullAddress"],
+      "additionalProperties": false
+    },
+    "propertyType": {
+      "type": "string",
+      "enum": ["APARTMENT", "HOUSE", "COMMERCIAL", "UNKNOWN"]
+    },
+    "price": {
+      "type": "object",
+      "properties": {
+        "amount": {
+          "type": "number"
+        },
+        "currency": {
+          "type": "string",
+          "enum": ["USD", "UAH"]
+        },
+        "approxUahPrice": {
+          "type": "number"
+        }
+      },
+      "required": ["amount", "currency", "approxUahPrice"],
+      "additionalProperties": false
+    },
+    "description": {
+      "type": "object",
+      "properties": {
+        "brief": {
+          "type": "string"
+        },
+        "full": {
+          "type": "string"
+        }
+      },
+      "required": ["brief", "full"],
+      "additionalProperties": false
+    },
+    "specifications": {
+      "type": "object",
+      "properties": {
+        "buildingType": {
+          "type": "string"
+        },
+        "floor": {
+          "type": "integer"
+        },
+        "totalFloors": {
+          "type": "integer"
+        },
+        "totalArea": {
+          "type": "number"
+        },
+        "kitchenArea": {
+          "type": "number"
+        },
+        "livingArea": {
+          "type": "number"
+        },
+        "rooms": {
+          "type": "integer"
+        },
+        "wallType": {
+          "type": "string"
+        },
+        "heating": {
+          "type": "string"
+        },
+        "renovation": {
+          "type": "string"
+        },
+        "furnished": {
+          "type": "boolean"
+        },
+        "balcony": {
+          "type": "boolean"
+        },
+        "appliances": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "other": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": ["buildingType", "floor", "totalFloors", "totalArea", "kitchenArea", "livingArea", "rooms", "wallType", "heating", "renovation", "furnished", "balcony", "appliances", "other"],
+      "additionalProperties": false
+    },
+    "amenities": {
+      "type": "object",
+      "properties": {
+        "nearby": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "other": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": ["nearby", "other"],
+      "additionalProperties": false
+    },
+    "rules": {
+      "type": "object",
+      "properties": {
+        "petsAllowed": {
+          "type": "boolean"
+        },
+        "studentsAllowed": {
+          "type": "boolean"
+        },
+        "foreignersAllowed": {
+          "type": "boolean"
+        }
+      },
+      "required": ["petsAllowed", "studentsAllowed", "foreignersAllowed"],
+      "additionalProperties": false
+    },
+    "contact": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "phone": {
+          "type": "string"
+        }
+      },
+      "required": ["name", "phone"],
+      "additionalProperties": false
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "seoTitle": {
+          "type": "string"
+        },
+        "seoDescription": {
+          "type": "string"
+        },
+        "keywords": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": ["seoTitle", "seoDescription", "keywords"],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "id",
+    "operationType",
+    "title",
+    "slug",
+    "location",
+    "propertyType",
+    "price",
+    "description",
+    "specifications",
+    "amenities",
+    "rules",
+    "contact",
+    "metadata"
+  ],
+  "additionalProperties": false
+}

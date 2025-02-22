@@ -1,0 +1,227 @@
+{
+  "baseUrl": "http://localhost:8080",
+  "endpoints": [
+    {
+      "path": "/property-object/{id}",
+      "method": "GET",
+      "description": "Fetches a property object by its ID.",
+      "parameters": {
+        "id": {
+          "description": "The unique identifier of the property object.",
+          "type": "string",
+          "required": true,
+          "in": "path"
+        }
+      },
+      "exampleRequest": "GET http://localhost:8080/property-object/12345",
+      "response": "PropertyObjectDTO object with details of the specified property."
+    },
+    {
+      "path": "/property-object/{id}",
+      "method": "PUT",
+      "description": "Updates a property object with new details.",
+      "parameters": {
+        "id": {
+          "description": "The unique identifier of the property object to update.",
+          "type": "string",
+          "required": true,
+          "in": "path"
+        },
+        "body": {
+          "description": "JSON payload containing the updated PropertyObjectDTO.",
+          "type": "PropertyObjectDTO",
+          "required": true,
+          "in": "body"
+        }
+      },
+      "exampleRequest": "PUT http://localhost:8080/property-object/12345 with PropertyObjectDTO in body",
+      "response": "Updated PropertyObjectDTO object."
+    },
+    {
+      "path": "/property-object/{id}",
+      "method": "DELETE",
+      "description": "Deletes a property object by its ID.",
+      "parameters": {
+        "id": {
+          "description": "The unique identifier of the property object to delete.",
+          "type": "string",
+          "required": true,
+          "in": "path"
+        }
+      },
+      "exampleRequest": "DELETE http://localhost:8080/property-object/12345",
+      "response": "No content (204) after successful deletion."
+    },
+    {
+      "path": "/property-object",
+      "method": "POST",
+      "description": "Creates a new property object.",
+      "parameters": {
+        "body": {
+          "description": "JSON payload containing the PropertyObject to save.",
+          "type": "PropertyObject",
+          "required": true,
+          "in": "body"
+        }
+      },
+      "exampleRequest": "POST http://localhost:8080/property-object with PropertyObject in body",
+      "response": "Created PropertyObject with HTTP status 201."
+    },
+    {
+      "path": "/property-object",
+      "method": "GET",
+      "description": "Fetches a paginated list of property objects.",
+      "parameters": {
+        "pageNumber": {
+          "description": "The page number to fetch.",
+          "default": 0,
+          "type": "integer",
+          "optional": true
+        },
+        "pageSize": {
+          "description": "The number of items per page.",
+          "default": 30,
+          "type": "integer",
+          "optional": true
+        }
+      },
+      "exampleRequest": "GET http://localhost:8080/property-object?pageNumber=0&pageSize=30",
+      "response": "JSON array of PropertyObjectDTO."
+    },
+    {
+      "path": "/property-object/similar",
+      "method": "GET",
+      "description": "Fetches similar property objects based on price.",
+      "parameters": {
+        "id": {
+          "description": "The ID of the property to compare.",
+          "type": "string",
+          "required": true
+        },
+        "pageNumber": {
+          "description": "The page number to fetch.",
+          "default": 0,
+          "type": "integer",
+          "optional": true
+        },
+        "pageSize": {
+          "description": "The number of items per page.",
+          "default": 30,
+          "type": "integer",
+          "optional": true
+        }
+      },
+      "exampleRequest": "GET http://localhost:8080/property-object/similar?id=12345&pageNumber=0&pageSize=30",
+      "response": "JSON array of PropertyObjectDTO."
+    },
+    {
+      "path": "/property-object/search",
+      "method": "GET",
+      "description": "Searches for property objects based on a search query.",
+      "parameters": {
+        "query": {
+          "description": "The text query to search property objects.",
+          "type": "string",
+          "required": true
+        },
+        "pageNumber": {
+          "description": "The page number to fetch.",
+          "default": 0,
+          "type": "integer",
+          "optional": true
+        },
+        "pageSize": {
+          "description": "The number of items per page.",
+          "default": 20,
+          "type": "integer",
+          "optional": true
+        }
+      },
+      "exampleRequest": "GET http://localhost:8080/property-object/search?query=apartment&pageNumber=0&pageSize=20",
+      "response": "JSON array of PropertyObjectDTO."
+    },
+    {
+      "path": "/property-object/filter",
+      "method": "GET",
+      "description": "Filters property objects based on various criteria.",
+      "parameters": {
+        "searchText": {
+          "description": "Text to search in the properties.",
+          "type": "string",
+          "optional": true
+        },
+        "city": {
+          "description": "Filter properties by city.",
+          "type": "string",
+          "optional": true
+        },
+        "operationType": {
+          "description": "Filter by operation type ('RENT', 'SALE').",
+          "type": "string",
+          "optional": true
+        },
+        "propertyType": {
+          "description": "Filter by property type ('APARTMENT').",
+          "type": "string",
+          "optional": true
+        },
+        "minPrice": {
+          "description": "Minimum price filter.",
+          "type": "integer",
+          "default": 0,
+          "optional": true
+        },
+        "maxPrice": {
+          "description": "Maximum price filter.",
+          "type": "integer",
+          "optional": true
+        },
+        "pageNumber": {
+          "description": "The page number to fetch.",
+          "default": 0,
+          "type": "integer",
+          "optional": true
+        },
+        "pageSize": {
+          "description": "The number of items per page.",
+          "default": 20,
+          "type": "integer",
+          "optional": true
+        }
+      },
+      "exampleRequest": "GET http://localhost:8080/property-object/filter?city=New+York&operationType=SALE&minPrice=50000&maxPrice=200000&pageNumber=0&pageSize=20",
+      "response": "JSON array of PropertyObjectDTO."
+    }
+  ],
+  "notes": [
+    "Ensure correct handling of pagination using pageNumber and pageSize parameters.",
+    "Implement error handling for missing parameters, invalid values, or server errors.",
+    "Consider caching results for frequently accessed endpoints to enhance performance."
+  ],
+  "sampleResponseStructure": {
+    "id": "12345",
+    "platformId": "54321",
+    "pictures": ["https://example.com/image1.jpg", "https://example.com/image2.jpg"],
+    "linkUrl": "https://example.com/property/12345",
+    "status": "Available",
+    "propertyListing": {
+      "id": "12345",
+      "operationType": "SALE",
+      "title": "Cozy Apartment",
+      "slug": "cozy-apartment",
+      "location": {
+        "city": "New York",
+        "district": "Manhattan",
+        "address": "5th Avenue",
+        "fullAddress": "5th Avenue, Manhattan, New York, NY",
+        "coordinates": {
+          "lat": 40.7128,
+          "lng": -74.0060
+        }
+      },
+      "propertyType": "APARTMENT"
+    },
+    "phones": ["123-456-7890"],
+    "dateCreated": "2023-01-01T12:00:00"
+  }
+}
