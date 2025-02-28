@@ -2,24 +2,50 @@
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
     "properties": {
+        "id": {
+            "type": "string"
+        },
         "email": {
-            "type": "string",
-            "format": "email"
+            "type": "string"
         },
         "name": {
-            "type": "string",
-            "minLength": 3
+            "type": "string"
         },
         "password": {
-            "type": "string",
-            "minLength": 6
+            "type": "string"
         },
         "role": {
-            "type": "string",
-            "enum": [
-                "user",
-                "admin"
-            ]
+            "type": "string"
+        },
+        "phone": {
+            "type": "string"
+        },
+        "city": {
+            "type": "string"
+        },
+        "district": {
+            "type": "string"
+        },
+        "address": {
+            "type": "string"
+        },
+        "likedPropertyId": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "dislikeProperty": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "bookmarkPropertyId": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
         },
         "createdAt": {
             "type": "string",
@@ -29,108 +55,41 @@
             "type": "string",
             "format": "date-time"
         },
-        "profile": {
+        "notifications": {
             "type": "object",
             "properties": {
-                "phone": {
-                    "type": "string",
-                    "pattern": "^\\+?[0-9]{7,15}$"
+                "email": {
+                    "type": "boolean"
                 },
-                "city": {
-                    "type": "string"
+                "push": {
+                    "type": "boolean"
                 },
-                "district": {
-                    "type": "string"
-                },
-                "address": {
-                    "type": "string"
+                "propertyAlerts": {
+                    "type": "boolean"
                 }
             },
             "required": [
-                "phone",
-                "city",
-                "district",
-                "address"
-            ],
-            "interactions": {
-                "type": "object",
-                "properties": {
-                    "likes": {
-                        "type": "array",
-                        "items": {
-                            "type": "object",
-                            "properties": {
-                                "userId": {
-                                    "type": "string"
-                                },
-                                "timestamp": {
-                                    "type": "string",
-                                    "format": "date-time"
-                                }
-                            },
-                            "required": [
-                                "userId",
-                                "timestamp"
-                            ]
-                        }
-                    },
-                    "dislikes": {
-                        "type": "array",
-                        "items": {
-                            "type": "object",
-                            "properties": {
-                                "userId": {
-                                    "type": "string"
-                                },
-                                "timestamp": {
-                                    "type": "string",
-                                    "format": "date-time"
-                                }
-                            },
-                            "required": [
-                                "userId",
-                                "timestamp"
-                            ]
-                        }
-                    },
-                    "saved": {
-                        "type": "array",
-                        "items": {
-                            "type": "string"
-                        }
-                    }
-                }
-            },
-            "notifications": {
-                "type": "object",
-                "properties": {
-                    "email": {
-                        "type": "boolean"
-                    },
-                    "push": {
-                        "type": "boolean"
-                    },
-                    "propertyAlerts": {
-                        "type": "boolean"
-                    }
-                },
-                "required": [
-                    "email",
-                    "push",
-                    "propertyAlerts"
-                ]
-            }
-        },
-        "required": [
-            "email",
-            "name",
-            "password",
-            "role",
-            "createdAt",
-            "updatedAt",
-            "profile",
-            "interactions",
-            "notifications"
-        ]
-    }
+                "email",
+                "push",
+                "propertyAlerts"
+            ]
+        }
+    },
+    "required": [
+        "id",
+        "email",
+        "name",
+        "password",
+        "role",
+        "phone",
+        "city",
+        "district",
+        "address",
+        "likedPropertyId",
+        "dislikeProperty",
+        "bookmarkPropertyId",
+        "createdAt",
+        "updatedAt",
+        "notifications"
+    ]
 }
