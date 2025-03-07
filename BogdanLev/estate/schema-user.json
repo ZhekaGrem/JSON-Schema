@@ -75,6 +75,10 @@
             ]
         }
     },
+    
+"isEmailVerified"{
+    "type": "boolean",
+},
     "required": [
         "id",
         "email",
@@ -90,6 +94,7 @@
         "bookmarkPropertyId",
         "createdAt",
         "updatedAt",
-        "notifications"
+        "notifications",
+        "isEmailVerified"
     ]
 }
